@@ -1,0 +1,2 @@
+# registration.html
+registration-form
